@@ -3,6 +3,9 @@
 
 A advanced to-do app written in react, tailwind 
 
+## Demo
+
+https://todo-app-main-five-kappa.vercel.app/
 
 ## Tech Stack
 
@@ -32,7 +35,7 @@ A advanced to-do app written in react, tailwind
 Clone the project
 
 ```bash
-  git clone #
+  git clone https://github.com/TTsintsadze/todo-app-main
 ```
 
 Go to the project directory
